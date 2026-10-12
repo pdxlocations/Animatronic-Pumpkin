@@ -1,4 +1,4 @@
-# Halloween Eyes
+# Animatronic Pumpkin
 
 Three positional servos on a Seeed XIAO RP2040 sweep about individually
 adjustable centers using a 480-entry sine-based position table. For each
